@@ -1,6 +1,11 @@
 # Note App
 this is a note app created based on the hackfest competition
 
+## Our Teams
+- Andana Farras Pramudita & Syarif Ramdani Lubis (Hacker)
+- Wicaksono Hanif Supriyanto (Hustler)
+- Kadek Agus Perdiana (Hipster)
+
 ## App Technology
 - Flutter (Mobile App)
 - MongoDB (Database)
@@ -21,3 +26,4 @@ that AI can recognize. Apart from that, our application is
 designed to have the ability to translate voice recordings into
 note form. Note-taking using the type and write method is
 also still available.
+
