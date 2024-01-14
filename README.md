@@ -10,6 +10,7 @@ this is a note app created based on the hackfest competition
 - Flutter (Mobile App)
 - MongoDB (Database)
 - Google API (Supporting Features)
+- OCR (Scanner Image To Text)
 
 ## Product & Platform
 Our application will be designed as a notes application with
